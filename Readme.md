@@ -1,8 +1,8 @@
-# CI/CD Pipeline Documentation
+# CI/CD Pipeline
 
 ## Overview
 
-This document provides a detailed overview of the CI/CD pipeline built using Terraform and Jenkins on Google Cloud Platform. The pipeline is designed to build and deploy a Java application to a Kubernetes cluster. The pipeline stages are defined in a Jenkinsfile and can be customized as needed.
+This Project provides a detailed overview of the CI/CD pipeline built using Terraform and Jenkins on Google Cloud Platform. The pipeline is designed to build and deploy a Java application to a Kubernetes cluster. The pipeline stages are defined in a Jenkinsfile and can be customized as needed.
 
 ## Architecture
 
